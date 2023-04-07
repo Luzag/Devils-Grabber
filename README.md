@@ -1,3 +1,4 @@
+![image](https://user-images.githubusercontent.com/127673188/230662736-006e2fde-277d-49d5-888e-ec55a991e306.png)
 # Devils-Grabber 👾
 A trojan written in python 3 and packed with a whole lot of features with minimum dependencies and an interactive builder!
 
